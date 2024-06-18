@@ -39,12 +39,27 @@ Yet, the non-loyalty segment retains the AOV dominance, with a value of 261 vs 2
 In 2022, we can see the loyalty program continue the trend that first emerged in 2021, and overtake the non-loyalty program in Nov. 
 <img width="1121" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/b1db7753-fde4-4a18-9e17-4ab6b2c06df3">
 
+# Products
+As we have been asked to work on Apple products, let's quickly compare our 3 main products (Macbook, iPhone and AirPods)
+![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/c8d7b7d6-e74c-4b1c-8db8-31bef01a69e4)
+
+As we can see, AirPods are our most popular products by far, with iPhone coming second and MacBook last. 
+
 # Refunds
 <img width="508" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/7b416e08-710f-4efc-b196-e63922451319">
-![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/d39f020a-df71-4ee5-bacf-0508ca1e6ed2)
+
+## Here are refund rates by product
+As we can see the Macbook and the iPhone's refund rates have been decreasing since 2019 as seen below
+![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/3afffeb1-9713-4ef5-8475-471fc2410998)
+
+Except for airpods which had an uptick in 2020, but declined from 2021 onwards
+
+# Recommendations
+Based on these insights, the team would like to make several recommendations across several areas:
+1. Continue with the loyalty program
+2. Perform further product analysis
 
 
-# Products:
 
 ## Challenges:
 NaN values 
@@ -53,11 +68,6 @@ refund dates were in 2025
 
 Question for transactions team:
 0 dollar purchases
-
-
-
-# Recommendations
-Based on these insights, the team would like to make several recommendations across several areas:
 
 
 
