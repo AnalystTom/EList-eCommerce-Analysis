@@ -3,29 +3,61 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 I have cleaned and analysed the dataset, revealing hidden insights using Excel
 
 # About the Data
-The dataset provides sales and order data for AceProducts's product portfolio globally. The raw dataset consists of about 108,000 rows:
+The dataset provides sales and region data for the EList dataset. The raw dataset consists of about 108,000 rows:
 
 Steps taken to clean and prep the dataset for analysis can be found here.
 Workbook for analysis and more detailed insights can be found here.
 
 # Summary of Insights
-AceProducts Sales has been declining from previous years with 2022 sales and order count decreasing by 44% and 38% respectively from 2021. 27in 4K Gaming Monitor consistently has been the company's best-selling product (based on revenue), accounting for over 30% of total product sales each year, while Bose Soundsport Headphones has been the lowest, accounting for less than 1% of total product sales each year. We are seeing customers in the loyalty program generating more sales for AceProduct ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to those not in the loyalty program, suggesting that the loyalty program is trending positively and proving popular amongst our customers.
+Elist’s performance has reached it's peak in 2020, with roughly 10,000,000 in revenue, 34,000 orders and aov of 300 dollars.
+But began to decline in the years following 2021-2022, reaching 5,000,000 in revenue, 22,000 orders and aov of 230 dollars.
+![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/0c7c9f6b-218c-459f-8665-d49ab232cfbd)
+<img width="764" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/2335938c-be2a-4f69-8eab-68b7caa152bc">
 
-The products that have taken the longest to deliver have been Macbook Air Laptops, Apple iPhones and Samsung Charging Cable Packs, averaging 8 days compared to 7 days for all other products. While we continue to see strong ROI from marketing directly to consumers, our email marketing channel has been increasingly contributing more towards total sales, growing by nearly 50% in 2022 since 2019. Over 96% of total sales in 2022 were made on our website compared to our mobile app (4%).
+## Rising tensions:
+During the first year of decline at Elist, we saw a 10% decrease in revenue from 10 to 9 million and a 15% decline in aov from 300 to 250. But, we saw a growth of 6% in number of orders from 34,000 to 36,000. 
 
-# Technical Analysis
-image image image
+## Climax
+In our worst year (2022), we saw a 46% decrease in sales growth from 9,000,000 to 5,000,000. Additionally, we saw a 10% reduction in aov and a 40% decrease in order count.
+
+## Possible reasons:
+Covid impact on economic performance -> Massive economic downturn in 2022
+Promotions? - are there seasonal promotions
+Change in product preferences
+Change in customer demographics
+Faulty products
+
+# Loyalty Programme
+2019-2020:
+The loyalty program has been underperforming compared to the non-loyalty across all of the 3 North Star Metrics (Revenue, AOV and order count)
+
+2021:
+We can see that the loyalty program overtakes the non-loyalty program in the revenue and order count.
+Yet, the non-loyalty segment retains the AOV dominance, with a value of 261 vs 250.
+
+2022:
+In 2022, we can see the loyalty program continue the trend that first emerged in 2021, and overtake the non-loyalty program in Nov. 
+<img width="1121" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/b1db7753-fde4-4a18-9e17-4ab6b2c06df3">
+
+# Refunds
+<img width="508" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/7b416e08-710f-4efc-b196-e63922451319">
+![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/d39f020a-df71-4ee5-bacf-0508ca1e6ed2)
+
+
+# Products:
+
+## Challenges:
+NaN values 
+Lack of historical data - the absence of pre-Covid data for benchmarking
+refund dates were in 2025
+
+Question for transactions team:
+0 dollar purchases
+
+
 
 # Recommendations
 Based on these insights, the team would like to make several recommendations across several areas:
 
-# Products:
-AceProducts should consider making cuts to the Bose Soundsport Headphones product line. This product line has contributed less than 1% of total sales each year and has not shown any positive growth in either number of orders or sales. If we need to consider further aggressive cuts to product lines, Apple iPhone and the Samsung Charging Cable Packs should be next as these products contributed less than 3% of sales each year and took the longest to deliver to customers on average, which impacts customers' perception of our service negatively.
-Loyalty Program:
-The team recommends continuing with the loyalty program as customers in the loyalty program have shown to make more purchases on average and contribute to higher sales.
-Operational Effectiveness:
-As AceProducts continues to grow globally, consider assessing whether there are better national delivery partners we can work with. While our shipping times are on par with our largest eCommerce competitors, customers on average are increasingly expecting faster delivery times. There can be improvements made to our delivery network to align with growing consumer expectations.
-Marketing Channels:
-The team recommends continuing to make investments into the direct and email marketing channels. These continue to provide strong growth and contributions to sales. Consider decreasing marketing efforts on social media channels as sales attributed to these channels have accounted for less than 2% of total sales traditionally and declining even further in recent years.
-Platform Improvements:
-Our website continues to see strong demand for new accounts. We recommend enhancements to continue to be made to our website and mobile apps as both platforms continue to see strong growth.
+
+
