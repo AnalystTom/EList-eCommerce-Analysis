@@ -39,6 +39,12 @@ Yet, the non-loyalty segment retains the AOV dominance, with a value of 261 vs 2
 In 2022, we can see the loyalty program continue the trend that first emerged in 2021, and overtake the non-loyalty program in Nov. 
 <img width="1121" alt="image" src="https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/b1db7753-fde4-4a18-9e17-4ab6b2c06df3">
 
+Additionally, we can compare the average number of days that it takes to make an order between loyalty and non-loyalty members:
+![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/71c48737-f96c-4cee-b235-60d0d6646669)
+
+As we can see, non-loyalty members take on average 20 more days to place an order than the non-loyalty members 
+
+
 # Products
 As we have been asked to work on Apple products, let's quickly compare our 3 main products (Macbook, iPhone and AirPods)
 ![image](https://github.com/AnalystTom/EList-eCommerce-Analysis/assets/85899536/c8d7b7d6-e74c-4b1c-8db8-31bef01a69e4)
